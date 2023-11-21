@@ -8,7 +8,53 @@ We'll **keep you informed** once the new date is **finalized**, which will most 
 
 3/. the actual auto regression is being run only on the PS checklist because it is more complete. The client said we can regress also on Steam. However, we have decided not to mark the PS checklist using the test from Steam.
 I will add some manual regression tomorrow on the files we will use before submission, so some things could be checked on the Steam build tomorrow.
-Today I can't think a way for Steam testers to help with this task unfortunately. I am open to ideas if anyone has any we haven't thought.
+Today I can't think a way for Steam testers to help with this task unfortunately. I **am open to ideas** if anyone has any we haven't thought.
+
+4/. We have receive feedback about the brightness in the office and we are ware of the issue.
+The light in the office is owned by the building and unfortunately we(tenant) cannot change or remove the lights without the approval.
+Furthermore, by law, office brightness must be at least 300lx.
+Now, we are working with Admin team to negotiate with the landlord and work on an improving plan.
+We want to **ask for your patience and understanding while we are working on a solution** at this moment.
+ 
+5/. Use "" quotation marks **around the text** to find exact matches on google
+
+[17:09] Mario Sogno
+subtitles are generated before the voice  #townhallmeeting
+[17:10] Paolo Gimondi
+AI power of reading minds, I guess
+[17:12] Benjamin Paris Fleming
+pretty sure it's on a delay
+[17:16] Benjamin Paris Fleming
+why is this segment trying to cater to the tiktok zoomers
+[17:18] Joshua Lee
+is this lady reading off her phone...
+[17:24] Benjamin Paris Fleming
+someone ask if Microsoft is going to acquire us next
+[17:24] Daniel Rogerman
+Sorry, could you rephrase the question? I will do my best to answer it.
+[17:24] Jascha Wetherell
+Daniel you can learn how to dodge questions diplomatically here
+[17:25] Juan Garcia
+"XLOC... will help LQA"
+Tsubasa literarily broke XLOC a few many times we can't even use it
+[17:25] Benjamin Paris Fleming
+am I trippin or was the Guillermo del Toro
+[17:26] Daniel Rogerman
+I am still using XLOC as a tool. The issue may be closer related to the external application of such software.
+Did you find this answer helpful?
+[17:26] Mario Sogno
+think I just got a seizure
+[17:26] Jascha Wetherell
+Mario Sogno
+think I just got a seizure
+
+the lag is increasing the effect
+[17:28] Paolo Gimondi
+Next year townhall, I expect them to use only Tsubasa videos
+[17:29] Juan Garcia
+Paolo Gimondi
+Next year townhall, I expect them to use only Tsubasa videos
+Dude, the fps is barely holding up right now
 
 
 https://japanasubi-en.com/offer/n2g.pdf
