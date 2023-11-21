@@ -57,6 +57,13 @@ Next year townhall, I expect them to use only Tsubasa videos
 Dude, the fps is barely holding up right now
 - [17:37] Daniel Rogerman
 Q & A is scheduled for later in the Town Hall, please submit any outstanding queries at that time.
+- [17:40] Juan Garcia
+Masaki Ito
+📷   "One Keywords"  Employees unite to defeat the company🤪
+
+Easy, we just download all builds at the same time and bring down the entire networking infrastructure
+
+ laugh 3 1f51c_soon 2 surprised 1 rofl 1
 
 https://japanasubi-en.com/offer/n2g.pdf
 https://jisho.org/
