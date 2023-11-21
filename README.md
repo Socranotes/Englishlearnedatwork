@@ -55,7 +55,8 @@ Next year townhall, I expect them to use only Tsubasa videos
 Paolo Gimondi
 Next year townhall, I expect them to use only Tsubasa videos
 Dude, the fps is barely holding up right now
-
+- [17:37] Daniel Rogerman
+Q & A is scheduled for later in the Town Hall, please submit any outstanding queries at that time.
 
 https://japanasubi-en.com/offer/n2g.pdf
 https://jisho.org/
