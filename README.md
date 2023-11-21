@@ -20,52 +20,38 @@ We want to **ask for your patience and understanding while we are working on a s
 
 - [17:09] Mario Sogno
 subtitles are generated before the voice  #townhallmeeting
-
 - [17:10] Paolo Gimondi
 AI power of reading minds, I guess
-
-[17:12] Benjamin Paris Fleming
+- [17:12] Benjamin Paris Fleming
 pretty sure it's on a delay
-
-[17:16] Benjamin Paris Fleming
+- [17:16] Benjamin Paris Fleming
 why is this segment trying to cater to the tiktok zoomers
-
-[17:18] Joshua Lee
+- [17:18] Joshua Lee
 is this lady reading off her phone...
-
-[17:24] Benjamin Paris Fleming
+- [17:24] Benjamin Paris Fleming
 someone ask if Microsoft is going to acquire us next
-
-[17:24] Daniel Rogerman
+- [17:24] Daniel Rogerman
 Sorry, could you rephrase the question? I will do my best to answer it.
-
-[17:24] Jascha Wetherell
+- [17:24] Jascha Wetherell
 Daniel you can learn how to dodge questions diplomatically here
-
-[17:25] Juan Garcia
+- [17:25] Juan Garcia
 "XLOC... will help LQA"
 Tsubasa literarily broke XLOC a few many times we can't even use it
-
-[17:25] Benjamin Paris Fleming
+- [17:25] Benjamin Paris Fleming
 am I trippin or was the Guillermo del Toro
-
-[17:26] Daniel Rogerman
+- [17:26] Daniel Rogerman
 I am still using XLOC as a tool. The issue may be closer related to the external application of such software.
 Did you find this answer helpful?
-
-[17:26] Mario Sogno
+- [17:26] Mario Sogno
 think I just got a seizure
-
-[17:26] Jascha Wetherell
+- [17:26] Jascha Wetherell
 Mario Sogno
 think I just got a seizure
 
 the lag is increasing the effect
-
-[17:28] Paolo Gimondi
+- [17:28] Paolo Gimondi
 Next year townhall, I expect them to use only Tsubasa videos
-
-[17:29] Juan Garcia
+- [17:29] Juan Garcia
 Paolo Gimondi
 Next year townhall, I expect them to use only Tsubasa videos
 Dude, the fps is barely holding up right now
