@@ -18,10 +18,10 @@ We want to **ask for your patience and understanding while we are working on a s
  
 5/. Use "" quotation marks **around the text** to find exact matches on google
 
-[17:09] Mario Sogno
+- [17:09] Mario Sogno
 subtitles are generated before the voice  #townhallmeeting
 
-[17:10] Paolo Gimondi
+- [17:10] Paolo Gimondi
 AI power of reading minds, I guess
 
 [17:12] Benjamin Paris Fleming
