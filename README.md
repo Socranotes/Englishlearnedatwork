@@ -62,9 +62,15 @@ Masaki Ito
 📷   "One Keywords"  Employees unite to defeat the company🤪
 
 Easy, we just download all builds at the same time and bring down the entire networking infrastructure
+- [17:48] Daniel Rogerman
+Important!
+I would just like to say, expressions of political opinions are generally best avoided in work settings.
+ 
+I understand and hope, all do, that some of the above is said in jest.
+ 
+(Employee Representative Results aside)
 
- laugh 3 1f51c_soon 2 surprised 1 rofl 1
-
+ 
 https://japanasubi-en.com/offer/n2g.pdf
 https://jisho.org/
 “ざるをえない”  site:nani-blog.com
