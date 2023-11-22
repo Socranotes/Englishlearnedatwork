@@ -68,8 +68,49 @@ Important!
 I would just like to say, expressions of political opinions are generally best avoided in work settings.
  
 I understand and hope, all do, that some of the above is said in jest.
- 
 (Employee Representative Results aside)
+
+[Yesterday 18:03] Masaki Ito
+Yes, Just to be sure, I have no intention of seriously destroying KW.
+[Yesterday 18:12] Benjamin Paris Fleming
+Honestly, sounds disconcerting.. AI and translation don't tend to equate to quality products, as we all know....
+[Yesterday 18:14] Juan Garcia
+Give it 10 to 20 year, we will have text prompt to fully made AAA game just for you. I think we are getting extinct sooner than later.
+[Yesterday 18:15] Benjamin Paris Fleming
+People have been saying this for a while, and honestly I don't think it will ever happen. AI is soulless and derivative, it is not a replacement for creativity. But that's just my opinion!
+[Yesterday 18:27] Joshua Lee
+That'll be the point where We have to ask if we actually care about the human element of the media we consume or if we just want to consume Stuff
+[Yesterday 18:31] Martin Millena
+Don't underestimate corporate greed... or the general public's apathy 
+[Yesterday 18:34] Jascha Wetherell
+the publics apathy is definitely the thing here: I have seen mostly anime adaptions like Dragon Ball or Naruto where people did not even care if names of characters are completely wrong, but i also tested Dark Souls Remastered where we received complains on Day1 about a missing comma
+[Yesterday 18:35] Jascha Wetherell
+and we will be there to guarantee quality for clients and consumers who actually care about it - so fingers crossed
+[Yesterday 18:38] Tiago Araujo De Souza
+I hope they do not play alan wake 2 in PT-BR. Missings commas, periods and spaces all the way 
+[Yesterday 18:42] Martin Millena
+the irony is that there are people like us who do care enough about games and other media to do stuff like scanlate manga, fansub anime, and make translation patches for games with high standards (for free, even), yet somehow this still happens
+
+
+ 
+[Yesterday 18:36] Daniel Rogerman
+to this day I am annoyed by the spacing of tips in Elden ring Loading Screens
+[Yesterday 18:14] Benjamin Paris Fleming
+I could see it be useful in assisting translation into more languages, and therefore reaching a larger audience, but nothing will ever replace the human creative element that goes into producing high-quality translations/localizations.
+[Yesterday 18:15] Masaki Ito
+Yes, as you say automatic translation and automatic LQA still need time to catch up to human accuracy.
+
+Regarding LQA, it is not yet possible for AI to automatically perform LQA as everyone imagines.
+[Yesterday 18:19] Daniel Rogerman
+Many would say that the soul is a concept that is not applicable to silicon based lifeforms, I however am not so sure...
+
+ 
+ laugh 6 like 1
+
+ like 4
+ 
+ muscle 1 trophy 1 ok 1
+ salute 1 1f446_backhandindexpointingup 6 1f4af_hundredpointssymbol 3 hearteyesrobot 2 like 1 laugh 14 like 2 man_in_suit_levitating 1 think 1 salute 1
 
  
 https://japanasubi-en.com/offer/n2g.pdf
@@ -78,8 +119,5 @@ https://jisho.org/
 
 ## 20231122
 1. E-mail  
-  Super proud of our KWM team in Canada for giving back to those in need. They were challenged by business colleagues to fill the community fridge at Parvis in lower town Quebec. The team loves to give back, so they gladly took on the challenge by filling it with more 80 sandwiches, juices, and snacks. Their commitment to giving back is truly remarkable. What's even more heart-warning is that they've inspired additional teams to join this charitable movement, and Volta was one of them. That's imbibing the Power of Partnership!
+Super proud of our KWM team in Canada for **giving back to those in need**. They were challenged by business colleagues to fill the community fridge at Parvis in lower town Quebec. The team loves to give back, so they gladly took on the challenge by filling it with more 80 sandwiches, juices, and snacks. Their commitment to giving back is truly remarkable. What's even more heart-warning is that they've inspired additional teams to join this charitable movement, and Volta was one of them. **That's imbibing the Power of Partnership!**
 
- 
-
-Looking forward to witnessing more of these thoughtful acts! 
