@@ -1,22 +1,22 @@
 # Englishlearnedatwork
+## 20231121
+1. The content only updated today? If it was only changed in today's text file then likely not in 20th build I would say - **wouldn't hurt to** check though
 
-1/. The content only updated today? If it was only changed in today's text file then likely not in 20th build I would say - **wouldn't hurt to** check though
-
-2/. Given the unforeseen weather conditions, the evacuation drill **originally scheduled for** tomorrow has been postponed.
+2. Given the unforeseen weather conditions, the evacuation drill **originally scheduled for** tomorrow has been postponed.
 We **apologize for any inconvenience this may cause to those who** have made arrangements.
 We'll **keep you informed** once the new date is **finalized**, which will most likely **be rescheduled to** next year.
 
-3/. the actual auto regression is being run only on the PS checklist because it is more complete. The client said we can regress also on Steam. However, we have decided not to mark the PS checklist using the test from Steam.
+3. the actual auto regression is being run only on the PS checklist because it is more complete. The client said we can regress also on Steam. However, we have decided not to mark the PS checklist using the test from Steam.
 I will add some manual regression tomorrow on the files we will use before submission, so some things could be checked on the Steam build tomorrow.
 Today I can't think a way for Steam testers to help with this task unfortunately. I **am open to ideas** if anyone has any we haven't thought.
 
-4/. We have receive feedback about the brightness in the office and we are ware of the issue.
+4. We have receive feedback about the brightness in the office and we are ware of the issue.
 The light in the office is owned by the building and unfortunately we(tenant) cannot change or remove the lights without the approval.
 Furthermore, by law, office brightness must be at least 300lx.
 Now, we are working with Admin team to negotiate with the landlord and work on an improving plan.
 We want to **ask for your patience and understanding while we are working on a solution** at this moment.
  
-5/. Use "" quotation marks **around the text** to find exact matches on google
+5. Use "" quotation marks **around the text** to find exact matches on google
 
 - [17:09] Mario Sogno
 subtitles are generated before the voice  #townhallmeeting
@@ -74,3 +74,10 @@ I understand and hope, all do, that some of the above is said in jest.
 https://japanasubi-en.com/offer/n2g.pdf
 https://jisho.org/
 “ざるをえない”  site:nani-blog.com
+
+## 20231122
+Super proud of our KWM team in Canada for giving back to those in need. They were challenged by business colleagues to fill the community fridge at Parvis in lower town Quebec. The team loves to give back, so they gladly took on the challenge by filling it with more 80 sandwiches, juices, and snacks. Their commitment to giving back is truly remarkable. What's even more heart-warning is that they've inspired additional teams to join this charitable movement, and Volta was one of them. That's imbibing the Power of Partnership!
+
+ 
+
+Looking forward to witnessing more of these thoughtful acts! 
