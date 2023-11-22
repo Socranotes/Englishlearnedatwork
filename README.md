@@ -18,6 +18,7 @@ We want to **ask for your patience and understanding while we are working on a s
  
 5. Use "" quotation marks **around the text** to find exact matches on google
 
+6. Small talk 
 - [17:09] Mario Sogno
 subtitles are generated before the voice  #townhallmeeting
 - [17:10] Paolo Gimondi
