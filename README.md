@@ -77,7 +77,7 @@ https://jisho.org/
 “ざるをえない”  site:nani-blog.com
 
 ## 20231122
-1. E-mail
+1. E-mail  
   Super proud of our KWM team in Canada for giving back to those in need. They were challenged by business colleagues to fill the community fridge at Parvis in lower town Quebec. The team loves to give back, so they gladly took on the challenge by filling it with more 80 sandwiches, juices, and snacks. Their commitment to giving back is truly remarkable. What's even more heart-warning is that they've inspired additional teams to join this charitable movement, and Volta was one of them. That's imbibing the Power of Partnership!
 
  
