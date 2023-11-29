@@ -144,3 +144,31 @@ If you need the TeamSpirit Expense Reimbursement Manual, please find it below li
 https://keywordsstudios.sharepoint.com/sites/allstaff.tok/SitePages/Finance.aspx
 If have any questions, please feel free to contact us.
 Thank you for your cooperation!
+
+3. November 2020 was my first time joining KW, and my first project was Clap Hanz Golf
+Fast-forward 3 years later
+It's November 2023, and its my birthday, and surprisingly I am working on another Clap Hanz Golf game 
+ 
+I had nothing but incredible times among you all, filled with tons of positive vibes.
+So here is to you and the lives you will live
+Hoping it will keep going from awesome to Super Positive.
+ 
+Enjoy the snack.
+
+4. 【OFFICE DE YASAI】Menu for November
+Dear One Keywords Japan Team, 
+OFFICE DE YASAI products are now available on the 9th floor break area. 
+Check the attached PDF or the monthly calendar posted in the break areas on each floor for the product list and this month’s delivery schedule. 
+Thank you for your continued support!
+
+Dear One Keywords Japan Team,
+OFFICE DE YASAI is scheduled for delivery today, but delivery time has been delayed.
+It will be delivered between 14:00 and 16:00. We appreciate your understanding and cooperation.
+
+Dear One Keywords Japan Team,
+For OFFICE DE YASAI, Yamato has delivery delay and will not be able to delivery today.
+The products are expected to arrive tomorrow, but depending on the congestion, it might be later tomorrow.
+
+Dear One Keywords Japan Team, 
+OFFICE DE YASAI products are now available on the 9th floor break area. 
+Thank you for your continued support.
