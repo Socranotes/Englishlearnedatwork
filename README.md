@@ -121,3 +121,26 @@ https://jisho.org/
 1. E-mail  
 Super proud of our KWM team in Canada for **giving back to those in need**. They were challenged by business colleagues to fill the community fridge at Parvis in lower town Quebec. The team loves to give back, so they gladly took on the challenge by filling it with more 80 sandwiches, juices, and snacks. Their commitment to giving back is truly remarkable. What's even more heart-warning is that they've inspired additional teams to join this charitable movement, and Volta was one of them. **That's imbibing the Power of Partnership!**
 
+## 20231129
+1. Keywords International Recruitment - Japan
+Hello Tokyo Keywordians,
+Hope you all are good☕
+Thank you for your collaboration for the referral program.
+
+We are continuously growing and there are more opportunities at Keywords Tokyo🔥
+Feel free to check featured job opportunities out and refer your families and friends! Let’s help them become a part of our Team🤝 Your applications are welcome too!
+
+Please do not hesitate to contact to us (recruit-japan@keywordsstudios.com ) if you have any questions!
+
+2. Due date notification 【December 4th】 November Expense Claim 
+Hello all,
+November employee expense claim is due on December 4th (Mo) the second business day. Please prepare yours in time with TeamSpirit if you have any.
+The transportation expense to our office will be set by HR. Therefore you don’t need to file an expense claim.
+For attendance approver, please approve the expense claim with TeamSpirit.
+The expense claims submission box is set on 9th floor close to the copy machine and free address desks area.
+After receiving the approved email, please print the expense reimbursement, and glue the receipts (originals if applicable) on A4 paper,
+and put in a clear folder and submit to the box when you come to office next time, or mail to finance.
+If you need the TeamSpirit Expense Reimbursement Manual, please find it below link.
+https://keywordsstudios.sharepoint.com/sites/allstaff.tok/SitePages/Finance.aspx
+If have any questions, please feel free to contact us.
+Thank you for your cooperation!
