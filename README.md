@@ -172,3 +172,22 @@ The products are expected to arrive tomorrow, but depending on the congestion, i
 Dear One Keywords Japan Team, 
 OFFICE DE YASAI products are now available on the 9th floor break area. 
 Thank you for your continued support.
+
+## 20231201
+1. The revamped Keywords Studios website
+Hey Team, we've got some exciting news! Keywords Studios’ web presence is levelling up!🚀
+
+The revamped Keywords Studios website is live, and it's a game-changer! With its fresh look and enhanced user experience, we believe it will act as a catalyst for business growth. It genuinely captures the essence of who we are today and embodies our drive to "Imagine More."
+
+🌐  Same URL, but totally levelled up! Dive in and see how we've transformed our digital domain.
+🔍  Spotted anything amiss or have feedback? If anything feels off or you have suggestions, please reach out to us below. Our support team is here to help.
+📘  Additionally, if you need support beyond the website, our 'Group Marketing at Keywords - This is How We Do It' guide is just a click away - ​pdf icon Keywords Group Marketing_This Is How We Do It.pdf . This live document is a handy overview of what Group Marketing does, how we can help, and provides contacts within the team so you can get to the right person you need to speak to the first time.
+
+A heartfelt thank you to Linda Quinn, Laura Boyles, and the entire Global Marketing team for your relentless effort in realising this vision. And of course, a big shout-out to all the brilliant collaborators across the group for your dedication and support to bring the website and its content to life.
+
+2. Keywords Care
+We’re very proud of our colleagues at Studio Gobo, Michael Boyle, Alastair Toft and George Prosser, for their efforts to support The Clock Tower Sanctuary . This is the only drop-in service providing information, advice and support to young people aged 16-25 experiencing homelessness in Brighton & Hove. The charity works with young people to help prevent further decline, unlock their potential, and get their lives back on track.
+
+Gobo’s Walking in Sussex Club (WISC), who take regular walks around Sussex, originates from Gobo, but they invite anyone to join them! And joining fundraising efforts is completely optional.
+
+Keywords Cares was very pleased to match their fundraising efforts, increasing their donations to £170, which paid for seventeen young people to have a shower, wash their clothes, have a hot meal, and talk to specially trained volunteers. 
