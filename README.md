@@ -208,3 +208,21 @@ I had the same thing last time and I waited for a (very) long time but nothing h
 So try to call the IT and see what happed 
  
 Thanks a lot!
+- [4:39 PM] Natsumi Endo
+I think your brain is right
+
+As you said, the glossary match task is a little further along.
+
+Because when I discussed this task with the client, they was told that we should not do this task at the Ver 1.0.1.
+
+This is because this task will cause more text changes, and there will not be time to regress those text changes.
+
+ 
+We also know that there are some problems with the glossary itself, which we are in the process of addressing.
+
+(However, the client is busy closing Ver 1.0.1 right now, so not much other work is going on.)
+ 
+So there is no need for us to actively do any work on the glossary at this time.
+
+Just as with the PS Roller check, if you find any inconsistencies during the check, you can simply correct them.
+ like 1 heart 1
