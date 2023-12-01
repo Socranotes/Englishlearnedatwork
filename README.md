@@ -191,3 +191,20 @@ We’re very proud of our colleagues at Studio Gobo, Michael Boyle, Alastair Tof
 Gobo’s Walking in Sussex Club (WISC), who take regular walks around Sussex, originates from Gobo, but they invite anyone to join them! And joining fundraising efforts is completely optional.
 
 Keywords Cares was very pleased to match their fundraising efforts, increasing their donations to £170, which paid for seventeen young people to have a shower, wash their clothes, have a hot meal, and talk to specially trained volunteers. 
+
+4. Teams
+- [3:43 PM] Justin Gilissen
+Natsumi, I just wanted to confirm something, are we still having a big Glossary task later during the testing phase?
+We are currently testing and fixing the found Glossary terms that are incorrect, but not actively chasing them at the moment, because I had a vague souvenir that a Task about this should be coming a bit later, Did my brain abandon me and it is not the case, and we should actively search for the glossary terms that are not matching right now? 
+ 
+Or should we proceed as, if we find something that doesn't match, we fix it?
+ 
+Thanks a lot!
+- [3:46 PM] Catherine Little
+The Steam build became nonresponsive so I tried restarting; now my gaming PC says it has been restarting for about 3 minutes.  Is this normal?  Edit: Force restarted and it fixed it
+ surprised 3
+- [3:50 PM] Romain Murillo
+I had the same thing last time and I waited for a (very) long time but nothing happened. Like I would not use the "hard" way (aka unplug the pc) I call the IT but they did the hard way too... 
+So try to call the IT and see what happed 
+ 
+Thanks a lot!
